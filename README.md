@@ -19,17 +19,4 @@ The core logic of this application is based on an extensive analysis of a datase
 - **Risk Predictor Interface**: Users can input health metrics (BP, weight, lifestyle) to get a real-time risk assessment.
 - **AI Health Insights**: Powered by **Gemini AI**, providing personalized explanations and health tips based on prediction results.
 - **Modern UI/UX**: Built with React, Tailwind CSS, and Framer Motion for a fluid, accessible experience.
-
-## 🛠️ Technology Stack
-- **Frontend**: React 19, Vite, Tailwind CSS, Motion
-- **Full-Stack**: Express server (Node.js)
-- **AI Integration**: Google Gemini API (@google/genai)
-- **Analysis Environment**: Python (Pandas, Scikit-learn, XGBoost, CatBoost)
-
-
-
-## 📝 License
-This project is licensed under the Apache-2.0 License.
-
----
 *Disclaimer: This tool is for educational and research purposes only. Always consult a medical professional for health-related decisions.*
