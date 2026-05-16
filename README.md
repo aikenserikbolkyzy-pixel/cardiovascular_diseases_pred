@@ -26,28 +26,7 @@ The core logic of this application is based on an extensive analysis of a datase
 - **AI Integration**: Google Gemini API (@google/genai)
 - **Analysis Environment**: Python (Pandas, Scikit-learn, XGBoost, CatBoost)
 
-## 📦 Installation & Setup
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/cardiopredict-ai.git
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Environment Variables**:
-   Create a `.env` file and add your Gemini API Key:
-   ```env
-   GEMINI_API_KEY=your_api_key_here
-   ```
-
-4. **Run Development Server**:
-   ```bash
-   npm run dev
-   ```
 
 ## 📝 License
 This project is licensed under the Apache-2.0 License.
